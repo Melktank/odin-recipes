@@ -1,0 +1,42 @@
+* {
+    border: 1px solid red;
+}
+
+body {
+  background-color: rgb(255, 223, 255);  
+}
+.header {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    background-color: sandybrown;
+    color: white;
+}
+
+.container {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 52px;
+}
+
+.brisket {
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    padding: 40px;
+}
+
+.horchata {
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    padding: 40px;
+}
+.water{
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    padding: 40px;
+}
